@@ -1,0 +1,85 @@
+＃构建应用程序文件
+* .apk
+* .aar
+* .ap_
+* .aab
+
+＃文件的ART / Dalvik虚拟机
+* .dex
+
+＃ Java类文件
+* .class
+
+＃生成的文件
+箱 /
+gen /
+出 /
+＃   取消注释以下行，以防万一，您的应用中没有发布构建类型文件
+＃发布/
+
+＃摇篮文件
+.gradle /
+建立 /
+
+＃本地配置文件（SDK路径等）
+local.properties
+
+＃ Eclipse生成Proguard的文件夹
+守护者 /
+
+＃日志文件
+* .log
+
+＃ Android Studio中导航编辑器临时文件
+。导航 /
+
+＃ Android Studio中捕获的文件夹
+捕获 /
+
+＃的IntelliJ
+* .iml
+.idea / workspace.xml
+.idea / tasks.xml
+.idea / gradle.xml
+.idea / assetWizardSettings.xml
+.idea / 词典
+.idea / 库
+＃ .gitignore文件中的Android Studio 3。
+.idea / 快取
+.idea / modules.xml
+＃如果在导航编辑器中保持元素位置与您相关，请注释下一行
+.idea / navEditor.xml
+
+＃密钥库文件
+＃如果不想在其中签入密钥库文件，请取消注释以下几行。
+＃ * .jks
+＃ * .keystore
+
+＃在Android Studio 2.2及更高版本中生成的外部本机构建文件夹
+.externalNativeBuild
+.cxx /
+
+＃谷歌服务（如API或火力地堡）
+＃ google-services.json
+
+＃空闲线
+freeline.py
+自由线 /
+freeline_project_description.json
+
+＃快速通道
+fastlane / report.xml
+fastlane / Preview.html
+fastlane / 屏幕截图
+fastlane / test_output
+fastlane / 自述文件
+
+＃版本控制
+vcs.xml
+
+＃皮棉
+皮棉 / 中间体 /
+皮棉 / 生成的 /
+皮棉 / 输出 /
+皮棉 / tmp /
+＃皮棉/报告/
